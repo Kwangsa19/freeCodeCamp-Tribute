@@ -1,2 +1,2 @@
 # freeCodeCamp_Tribute
-Building the the tribute page 2nd project of "New Responsive Web Design"
+Passed the validation for both HTML and CSS from [ValidatorWe](https://validator.w3.org).
